@@ -1,5 +1,5 @@
 {
-    "name": "illnesse/laravel-visitor-tracker",
+    "name": "peterarends/laravel-visitor-tracker",
     "description": "Visitor tracker and statistics for Laravel 5/6",
     "type": "library",
     "license": "MIT",
